@@ -1,8 +1,7 @@
-# Hello Next.js AppRouter
+# Hello Next.js Bull-Board
 
 「Next.jsのAppRouterを使ってみる」というのが当初の目的だったが、<br>
 Bullを前提としたカスタムサーバーも試すことにした。<br>
-その結果、Docker対応も必要になり、少しややこしい構成になった。
 
 ## 前提
 + Docker Compose
